@@ -9,7 +9,7 @@ title: Fundamentals
 
 ## x86 Assembly Language ##
 
-The C programming is a high level language interpreted by the compiler that converts code into machine instructions called assembly language. By using a disassembler tool we can get the assembly language of a compiled C program.
+The C programming language is a high level language interpreted by the compiler that converts code into machine instructions called assembly language. By using a disassembler tool we can get the assembly language of a compiled C program.
 
 The Intel 8086 and 8088 were the first CPUs to have an instruction set that is now commonly referred to as **x86**. Intel Architecture 32-bit (IA-32) sometimes also called i386 is the 32-bit version of the x86 instruction set architecture.
 
